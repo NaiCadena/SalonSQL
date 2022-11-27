@@ -1,0 +1,516 @@
+Timestamp,Servicio ,Costo ,Método de pago ,total,Sacado de caja,Si pagado,Metodo de pago,Fecha ,Month,Week starting ,transaction ID
+5/2/2022 0:00,Lifting de pestañas,"$80,000 ",Datafono,"$76,149 ",depositado,Pagado,Datafono,5/2/2022,May,5/2/2022,COD1
+5/3/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/3/2022,May,5/2/2022,COD2
+5/3/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/3/2022,May,5/2/2022,COD3
+5/4/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/4/2022,May,5/2/2022,COD4
+5/5/2022 0:00,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,5/5/2022,May,5/2/2022,COD5
+5/5/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/5/2022,May,5/2/2022,COD6
+5/6/2022 0:00,Lifting de pestañas,"$90,000 ",Datafono,"$85,667 ",depositado,Pagado,Datafono,5/6/2022,May,5/2/2022,COD7
+5/6/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD8
+5/6/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD9
+5/6/2022 0:00,"Depilacion corporal (pierna, muslo)","$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD10
+5/6/2022 0:00,Depilacion de axila,"$15,000 ",Efectivo,"$15,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD11
+5/6/2022 0:00,Bozo,"$10,000 ",Efectivo,"$10,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD12
+5/6/2022 0:00,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD13
+5/6/2022 0:00,Depilacion de axila,"$15,000 ",Efectivo,"$15,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD14
+5/6/2022 0:00,"Depilacion corporal (pierna, muslo)","$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD15
+5/6/2022 0:00,Bozo,"$10,000 ",Efectivo,"$10,000 ",depositado,Pagado,Efectivo,5/6/2022,May,5/2/2022,COD16
+5/7/2022 0:00,Depilacion de cejas + bozo,"$50,000 ",Efectivo,"$50,000 ",pendiente,Pagado,Efectivo,5/7/2022,May,5/2/2022,COD17
+5/9/2022 23:41,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/9/2022,May,5/9/2022,COD18
+5/10/2022 11:37,Retoque de pestañas,"$60,000 ",Efectivo,"$60,000 ",depositado,Pagado,Efectivo,5/10/2022,May,5/9/2022,COD19
+5/11/2022 11:38,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,5/11/2022,May,5/9/2022,COD20
+5/9/2022 11:39,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,5/9/2022,May,5/9/2022,COD21
+5/11/2022 21:19,Retoque de pestañas,"$60,000 ",Efectivo,"$60,000 ",depositado,Pagado,Efectivo,5/11/2022,May,5/9/2022,COD22
+5/11/2022 21:20,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/11/2022,May,5/9/2022,COD23
+5/10/2022 21:20,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,5/10/2022,May,5/9/2022,COD24
+5/11/2022 21:20,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,5/11/2022,May,5/9/2022,COD25
+5/12/2022 22:59,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/12/2022,May,5/9/2022,COD26
+5/12/2022 22:59,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/12/2022,May,5/9/2022,COD27
+5/12/2022 23:00,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,5/12/2022,May,5/9/2022,COD28
+5/12/2022 23:00,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,5/12/2022,May,5/9/2022,COD29
+5/13/2022 9:41,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/13/2022,May,5/9/2022,COD30
+5/13/2022 9:42,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/13/2022,May,5/9/2022,COD31
+5/13/2022 9:42,Solo pigmento,"$20,000 ",Efectivo,"$20,000 ",depositado,Pagado,Efectivo,5/13/2022,May,5/9/2022,COD32
+5/14/2022 20:54,Pestañas hibridas,"$150,000 ",Efectivo,"$150,000 ",depositado,Pagado,Efectivo,5/14/2022,May,5/9/2022,COD33
+5/14/2022 20:55,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,5/14/2022,May,5/9/2022,COD34
+5/14/2022 20:56,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,5/14/2022,May,5/9/2022,COD35
+5/14/2022 12:57,Depilacion de axila,"$15,000 ",Efectivo,"$15,000 ",depositado,Pagado,Efectivo,5/14/2022,May,5/9/2022,COD36
+5/16/2022 21:39,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/16/2022,May,5/16/2022,COD37
+5/16/2022 21:39,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/16/2022,May,5/16/2022,COD38
+5/16/2022 21:44,Retiro de pestañas,"$30,000 ",Efectivo,"$30,000 ",depositado,Pagado,Efectivo,5/16/2022,May,5/16/2022,COD39
+5/17/2022 19:21,Cejas diseño completo,"$35,000 ",Datafono,"$33,315 ",depositado,Pagado,Datafono,5/17/2022,May,5/16/2022,COD40
+5/18/2022 19:08,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/18/2022,May,5/16/2022,COD41
+5/18/2022 19:08,Bozo,$0 ,Datafono,-,depositado,Pagado,Datafono,5/18/2022,May,5/16/2022,COD42
+5/18/2022 19:09,Depilacion de cejas con hilo,$0 ,Datafono,-,depositado,Pagado,Datafono,5/18/2022,May,5/16/2022,COD43
+5/18/2022 19:09,Pestañas hibridas,"$205,000 ",Datafono,"$195,131 ",depositado,Pagado,Datafono,5/18/2022,May,5/16/2022,COD44
+5/19/2022 16:00,Depilacion de cejas con hilo,"$55,000 ",Efectivo,"$55,000 ",depositado,Pagado,Efectivo,5/19/2022,May,5/16/2022,COD45
+5/19/2022 18:17,Lifting de pestañas sin tintura,"$60,000 ",Datafono,"$57,112 ",depositado,Pagado,Datafono,5/19/2022,May,5/16/2022,COD46
+5/20/2022 15:01,Laminado de cejas completo,"$75,000 ",Datafono,"$71,389 ",depositado,Pagado,Datafono,5/20/2022,May,5/16/2022,COD47
+5/20/2022 15:01,Lifting de pestañas,"$80,000 ",Datafono,"$76,149 ",depositado,Pagado,Datafono,5/20/2022,May,5/16/2022,COD48
+5/20/2022 15:01,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/20/2022,May,5/16/2022,COD49
+5/24/2022 21:15,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,5/24/2022,May,5/23/2022,COD50
+5/24/2022 21:15,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,5/24/2022,May,5/23/2022,COD51
+5/25/2022 19:06,Depilacion de cejas con hilo,$0 ,Datafono,,depositado,Pagado,Datafono,5/25/2022,May,5/23/2022,COD52
+5/25/2022 19:07,Depilacion de cejas con hilo,"$80,000 ",Datafono,"$76,149 ",depositado,Pagado,Datafono,5/25/2022,May,5/23/2022,COD53
+5/26/2022 20:01,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,5/26/2022,May,5/23/2022,COD54
+5/26/2022 20:27,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/26/2022,May,5/23/2022,COD55
+5/27/2022 12:07,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,5/27/2022,May,5/23/2022,COD56
+5/27/2022 17:49,Lifting de pestañas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,5/27/2022,May,5/23/2022,COD57
+5/27/2022 17:50,Depilacion de cejas con hilo,$0 ,Datafono,,depositado,Pagado,Datafono,5/27/2022,May,5/23/2022,COD58
+5/31/2022 11:24,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD59
+5/31/2022 11:24,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD60
+5/31/2022 11:24,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD61
+5/31/2022 11:25,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD62
+5/31/2022 11:26,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD63
+5/31/2022 23:37,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD64
+5/31/2022 23:37,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,5/31/2022,May,5/30/2022,COD65
+6/1/2022 19:08,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/1/2022,June,5/30/2022,COD66
+6/2/2022 22:35,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,6/2/2022,June,5/30/2022,COD67
+6/2/2022 22:36,Pestañas hibridas,"$150,000 ",Datafono,"$142,779 ",depositado,Pagado,Datafono,6/2/2022,June,5/30/2022,COD68
+6/4/2022 20:17,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,6/4/2022,June,5/30/2022,COD69
+6/4/2022 20:18,Laminado de cejas completo,"$80,000 ",Datafono,"$76,149 ",depositado,Pagado,Datafono,6/4/2022,June,5/30/2022,COD70
+6/4/2022 20:19,Pestañas clasicas,"$120,000 ",Efectivo,"$120,000 ",depositado,Pagado,Efectivo,6/4/2022,June,5/30/2022,COD71
+6/4/2022 22:34,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/4/2022,June,5/30/2022,COD72
+6/6/2022 19:13,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/6/2022,June,6/6/2022,COD73
+6/6/2022 19:13,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/6/2022,June,6/6/2022,COD74
+6/6/2022 19:14,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/6/2022,June,6/6/2022,COD75
+6/6/2022 19:14,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,6/6/2022,June,6/6/2022,COD76
+6/7/2022 19:38,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,6/7/2022,June,6/6/2022,COD77
+6/7/2022 19:39,Retoque de pestañas,"$50,000 ",Efectivo,"$50,000 ",depositado,Pagado,Efectivo,6/7/2022,June,6/6/2022,COD78
+6/8/2022 20:54,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,6/8/2022,June,6/6/2022,COD79
+6/8/2022 20:54,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/8/2022,June,6/6/2022,COD80
+6/8/2022 20:55,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/8/2022,June,6/6/2022,COD81
+6/10/2022 10:46,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/10/2022,June,6/6/2022,COD82
+6/10/2022 10:46,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,6/10/2022,June,6/6/2022,COD83
+6/10/2022 19:48,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/10/2022,June,6/6/2022,COD84
+6/11/2022 10:32,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/11/2022,June,6/6/2022,COD85
+6/11/2022 10:31,Lifting de pestañas + Laminado de cejas,"$130,000 ",Datafono,"$123,742 ",depositado,Pagado,Datafono,6/11/2022,June,6/6/2022,COD86
+6/11/2022 10:32,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/11/2022,June,6/6/2022,COD87
+6/13/2022 19:17,Pestañas clasicas,"$96,000 ",Efectivo,"$96,000 ",depositado,Pagado,Efectivo,6/13/2022,June,6/13/2022,COD88
+6/13/2022 19:17,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/13/2022,June,6/13/2022,COD89
+6/13/2022 19:18,Lifting de pestañas + Diseño de cejas,"$130,000 ",Datafono,,depositado,Pagado,Datafono,6/13/2022,June,6/13/2022,COD90
+6/13/2022 19:18,Depilacion de cejas con hilo,"$40,000 ",Datafono,,depositado,Pagado,Datafono,6/13/2022,June,6/13/2022,COD91
+6/14/2022 20:15,Pestañas clasicas,"$120,000 ",Efectivo,"$120,000 ",depositado,Pagado,Efectivo,6/14/2022,June,6/13/2022,COD92
+6/14/2022 20:16,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/14/2022,June,6/13/2022,COD93
+6/15/2022 18:57,Lifting de pestañas,"$80,000 ",Datafono,,depositado,Pagado,Datafono,6/15/2022,June,6/13/2022,COD94
+6/15/2022 18:57,Laminado de cejas completo,"$100,000 ",Datafono,,depositado,Pagado,Datafono,6/15/2022,June,6/13/2022,COD95
+6/15/2022 18:58,Depilacion de cejas + bozo,"$50,000 ",Datafono,,depositado,Pagado,Datafono,6/15/2022,June,6/13/2022,COD96
+6/15/2022 18:58,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/15/2022,June,6/13/2022,COD97
+6/16/2022 19:27,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/16/2022,June,6/13/2022,COD98
+6/16/2022 19:28,Depilacion con hilo sin tintura,"$30,000 ",Datafono,"$28,556 ",depositado,Pagado,Datafono,6/16/2022,June,6/13/2022,COD99
+6/16/2022 19:28,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/16/2022,June,6/13/2022,COD100
+6/16/2022 19:28,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,6/16/2022,June,6/13/2022,COD101
+6/17/2022 19:40,Lifting de pestañas,"$85,000 ",Datafono,"$80,908 ",depositado,Pagado,Datafono,6/17/2022,June,6/13/2022,COD102
+6/17/2022 19:41,Laminado de cejas completo,"$75,000 ",Datafono,"$71,389 ",depositado,Pagado,Datafono,6/17/2022,June,6/13/2022,COD103
+6/17/2022 19:41,Depilacion con cera sin tintura,"$25,000 ",Datafono,"$23,796 ",depositado,Pagado,Datafono,6/17/2022,June,6/13/2022,COD104
+6/18/2022 19:01,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/18/2022,June,6/13/2022,COD105
+6/21/2022 19:34,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/21/2022,June,6/20/2022,COD106
+6/22/2022 19:18,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/22/2022,June,6/20/2022,COD107
+6/22/2022 19:18,Lifting de pestañas,"$72,000 ",Efectivo,"$72,000 ",depositado,Pagado,Efectivo,6/22/2022,June,6/20/2022,COD108
+6/22/2022 19:19,Lifting de pestañas,"$72,000 ",Datafono,71389,depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD109
+6/22/2022 19:19,Laminado de cejas completo,"$75,000 ",Datafono,"$71,389 ",depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD110
+6/22/2022 19:20,"Depilacion corporal (pierna, muslo)","$150,000 ",Datafono,"$142,779 ",depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD111
+6/22/2022 19:20,"Depilacion corporal (pierna, muslo)",,Datafono,,depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD112
+6/22/2022 19:20,Depilacion bikini,,Datafono,,depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD113
+6/22/2022 19:20,Depilacion bikini,,Datafono,,depositado,Pagado,Datafono,6/22/2022,June,6/20/2022,COD114
+6/23/2022 20:03,Lifting de pestañas,"$72,000 ",Efectivo,"$72,000 ",depositado,Pagado,Efectivo,6/23/2022,June,6/20/2022,COD115
+6/23/2022 20:03,Lifting de pestañas,"$72,000 ",Efectivo,"$72,000 ",depositado,Pagado,Efectivo,6/23/2022,June,6/20/2022,COD116
+6/24/2022 21:27,Retoque de pestañas,"$70,000 ",Efectivo,"$70,000 ",depositado,Pagado,Efectivo,6/24/2022,June,6/20/2022,COD117
+6/24/2022 21:27,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/24/2022,June,6/20/2022,COD118
+6/24/2022 21:27,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/24/2022,June,6/20/2022,COD119
+6/24/2022 21:27,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/24/2022,June,6/20/2022,COD120
+6/24/2022 21:28,Lifting de pestañas,"$72,000 ",Datafono,"$68,534 ",depositado,Pagado,Datafono,6/24/2022,June,6/20/2022,COD121
+6/25/2022 23:26,Depilacion de cejas con hilo,"$40,000 ",Datafono,"$38,074 ",depositado,Pagado,Datafono,6/25/2022,June,6/20/2022,COD122
+6/25/2022 23:26,Depilacion bikini,"$30,000 ",Efectivo,"$30,000 ",depositado,Pagado,Efectivo,6/25/2022,June,6/20/2022,COD123
+6/28/2022 19:22,Lifting de pestañas,"$80,000 ",Efectivo,"$80,000 ",depositado,Pagado,Efectivo,6/28/2022,June,6/27/2022,COD124
+6/28/2022 19:22,Depilacion de cejas con hilo,"$40,000 ",Efectivo,"$40,000 ",depositado,Pagado,Efectivo,6/28/2022,June,6/27/2022,COD125
+6/29/2022 21:24,Lifting de pestañas,"$90,000 ",Datafono,"$85,667 ",depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD126
+6/30/2022 21:24,Lifting de pestañas,"$90,000 ",Datafono,"$85,667 ",depositado,Pagado,Datafono,6/30/2022,June,6/27/2022,COD127
+6/29/2022 21:24,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD128
+6/29/2022 21:24,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD129
+6/29/2022 21:25,Cejas diseño completo,"$35,000 ",Efectivo,"$35,000 ",depositado,Pagado,Efectivo,6/29/2022,June,6/27/2022,COD130
+6/29/2022 21:25,Lifting de pestañas,"$90,000 ",Efectivo,"$90,000 ",depositado,Pagado,Efectivo,6/29/2022,June,6/27/2022,COD131
+6/29/2022 21:25,Lifting de pestañas,"$210,000 ",Datafono,"$199,891 ",depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD132
+6/29/2022 21:26,Laminado de cejas completo,,Datafono,,depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD133
+6/29/2022 21:26,Laminado de cejas completo,,Datafono,,depositado,Pagado,Datafono,6/29/2022,June,6/27/2022,COD134
+6/29/2022 21:28,Pestañas clasicas,"$120,000 ",Efectivo,"$120,000 ",depositado,Pagado,Efectivo,6/29/2022,June,6/27/2022,COD135
+6/29/2022 21:28,Depilacion facial,"$10,000 ",Efectivo,"$10,000 ",depositado,Pagado,Efectivo,6/29/2022,June,6/27/2022,COD136
+7/1/2022 22:20,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,7/1/2022,July,6/27/2022,COD137
+7/1/2022 22:21,Pestañas clasicas,"$130,000 ",Datafono,"$123,742 ",depositado,Pagado,Datafono,7/1/2022,July,6/27/2022,COD138
+7/1/2022 22:22,Cejas diseño completo,"$28,000 ",Datafono,"$26,652 ",depositado,Pagado,Datafono,7/1/2022,July,6/27/2022,COD139
+7/1/2022 22:22,Depilacion con cera sin tintura,"$25,000 ",Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/1/2022,July,6/27/2022,COD140
+7/3/2022 5:50,Cejas diseño completo,"$28,000 ",Efectivo,"$28,000 ",depositado,Pagado,Efectivo,7/3/2022,July,6/27/2022,COD141
+7/3/2022 5:53,Pestañas clasicas,"$120,000 ",Datafono,"$114,223 ",depositado,Pagado,Datafono,7/3/2022,July,6/27/2022,COD142
+7/5/2022 20:47,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,7/5/2022,July,7/4/2022,COD143
+7/5/2022 20:47,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/5/2022,July,7/4/2022,COD144
+7/5/2022 20:47,Laminado de cejas completo,64000,Efectivo,"$64,000 ",depositado,Pagado,Efectivo,7/5/2022,July,7/4/2022,COD145
+7/6/2022 21:22,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,7/6/2022,July,7/4/2022,COD146
+7/6/2022 21:22,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/6/2022,July,7/4/2022,COD147
+7/6/2022 21:23,Lifting de pestañas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,7/6/2022,July,7/4/2022,COD148
+7/7/2022 19:43,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,7/7/2022,July,7/4/2022,COD149
+7/7/2022 19:43,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/7/2022,July,7/4/2022,COD150
+7/7/2022 19:44,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/7/2022,July,7/4/2022,COD151
+7/8/2022 19:24,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/8/2022,July,7/4/2022,COD152
+7/8/2022 19:24,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/8/2022,July,7/4/2022,COD153
+7/8/2022 19:25,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,7/8/2022,July,7/4/2022,COD154
+7/8/2022 19:25,Pestañas clasicas,120000,Efectivo,"$120,000 ",depositado,Pagado,Efectivo,7/8/2022,July,7/4/2022,COD155
+7/8/2022 19:25,Retoque de pestañas,75000,Datafono,"$71,389 ",depositado,Pagado,Datafono,7/8/2022,July,7/4/2022,COD156
+7/11/2022 23:14,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/11/2022,July,7/11/2022,COD157
+7/11/2022 23:14,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/11/2022,July,7/11/2022,COD158
+7/12/2022 22:47,Lifting de pestañas,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,7/12/2022,July,7/11/2022,COD159
+7/13/2022 23:39,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/13/2022,July,7/11/2022,COD160
+7/14/2022 9:44,Lifting de pestañas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,7/14/2022,July,7/11/2022,COD161
+7/15/2022 20:06,"Depilacion corporal (pierna, muslo)",50000,Efectivo,"$50,000 ",depositado,Pagado,Efectivo,7/15/2022,July,7/11/2022,COD162
+7/15/2022 20:06,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/15/2022,July,7/11/2022,COD163
+7/15/2022 20:06,Pestañas clasicas,120000,Datafono,"$114,223 ",depositado,Pagado,Datafono,7/15/2022,July,7/11/2022,COD164
+7/15/2022 20:07,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/15/2022,July,7/11/2022,COD165
+7/15/2022 20:07,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/15/2022,July,7/11/2022,COD166
+7/15/2022 20:07,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/15/2022,July,7/11/2022,COD167
+7/16/2022 18:06,Pestañas clasicas,120000,Datafono,"$114,223 ",depositado,Pagado,Datafono,7/16/2022,July,7/11/2022,COD168
+7/16/2022 18:07,Cejas diseño completo,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/16/2022,July,7/11/2022,COD169
+7/16/2022 18:07,Lifting de pestañas,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,7/16/2022,July,7/11/2022,COD170
+7/16/2022 18:31,Solo pigmento,20000,Efectivo,"$20,000 ",depositado,Pagado,Efectivo,7/16/2022,July,7/11/2022,COD171
+7/18/2022 5:47,Lifting de pestañas,120000,Datafono,"$114,223 ",depositado,Pagado,Datafono,7/18/2022,July,7/18/2022,COD172
+7/18/2022 5:48,Laminado de cejas,,Datafono,$0 ,depositado,Pagado,Datafono,7/18/2022,July,7/18/2022,COD173
+7/18/2022 5:48,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,7/18/2022,July,7/18/2022,COD174
+7/18/2022 5:49,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,7/18/2022,July,7/18/2022,COD175
+7/19/2022 21:53,Lifting de pestañas,120000,Datafono,"$114,223 ",depositado,Pagado,Datafono,7/19/2022,July,7/18/2022,COD176
+7/19/2022 21:53,Depilacion de cejas con hilo,,Datafono,$0 ,depositado,Pagado,Datafono,7/19/2022,July,7/18/2022,COD177
+7/19/2022 21:54,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,7/19/2022,July,7/18/2022,COD178
+7/21/2022 21:23,Lifting de pestañas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,7/21/2022,July,7/18/2022,COD179
+7/21/2022 21:23,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/21/2022,July,7/18/2022,COD180
+7/22/2022 20:31,Lifting de pestañas,90000,Datafono,"$85,667 ",pendiente,Pagado,Datafono,7/22/2022,July,7/18/2022,COD181
+7/23/2022 19:13,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/23/2022,July,7/18/2022,COD182
+7/23/2022 19:14,Depilacion de cejas + bozo,50000,Datafono,"$47,593 ",depositado,Pagado,Datafono,7/23/2022,July,7/18/2022,COD183
+7/23/2022 19:14,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/23/2022,July,7/18/2022,COD184
+7/23/2022 19:14,Lifting de pestañas,90000,Efectivo,"$90,000 ",pendiente,Pagado,Efectivo,7/23/2022,July,7/18/2022,COD185
+7/25/2022 12:51,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",pendiente,Pagado,Efectivo,7/25/2022,July,7/25/2022,COD186
+7/25/2022 12:51,Depilacion con cera sin tintura,25000,Datafono,"$23,796 ",depositado,Pagado,Datafono,7/25/2022,July,7/25/2022,COD187
+7/25/2022 12:51,Retiro de pestañas,30000,Efectivo,"$30,000 ",pendiente,Pagado,Efectivo,7/25/2022,July,7/25/2022,COD188
+7/26/2022 21:46,Retoque de pestañas,70000,Efectivo,"$70,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD189
+7/26/2022 21:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD190
+7/26/2022 21:47,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD191
+7/26/2022 21:47,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD192
+7/26/2022 21:47,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD193
+7/26/2022 21:48,Lifting de pestañas,80000,Efectivo,"$80,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD194
+7/26/2022 21:48,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD195
+7/26/2022 21:49,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/26/2022,July,7/25/2022,COD196
+7/27/2022 19:51,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",pendiente,Pagado,Efectivo,7/27/2022,July,7/25/2022,COD197
+7/27/2022 19:51,Lifting de pestañas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,7/27/2022,July,7/25/2022,COD198
+7/27/2022 19:52,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,7/27/2022,July,7/25/2022,COD199
+7/29/2022 19:34,Laminado de cejas,80000,Efectivo,"$80,000 ",pendiente,Pagado,Efectivo,7/29/2022,July,7/25/2022,COD200
+7/29/2022 19:35,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,7/29/2022,July,7/25/2022,COD201
+7/29/2022 19:35,Lifting de pestañas,90000,Efectivo,"$90,000 ",pendiente,Pagado,Efectivo,7/29/2022,July,7/25/2022,COD202
+7/29/2022 22:31,Depilacion de axila,15000,Efectivo,"$15,000 ",pendiente,Pagado,Efectivo,7/29/2022,July,7/25/2022,COD203
+7/30/2022 19:17,Depilacion de cejas con hilo,80000,Datafono,"$76,149 ",depositado,Pagado,Datafono,7/30/2022,July,7/25/2022,COD204
+7/30/2022 19:17,Depilacion de cejas con hilo,,Datafono,$0 ,depositado,Pagado,Datafono,7/30/2022,July,7/25/2022,COD205
+7/30/2022 19:17,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,7/30/2022,July,7/25/2022,COD206
+8/1/2022 19:58,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/1/2022,August,8/1/2022,COD207
+8/1/2022 19:58,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/1/2022,August,8/1/2022,COD208
+8/1/2022 19:58,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,8/1/2022,August,8/1/2022,COD209
+8/2/2022 22:27,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/2/2022,August,8/1/2022,COD210
+8/2/2022 22:27,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,8/2/2022,August,8/1/2022,COD211
+8/2/2022 22:28,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/2/2022,August,8/1/2022,COD212
+8/3/2022 19:32,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,8/3/2022,August,8/1/2022,COD213
+8/3/2022 19:32,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,8/3/2022,August,8/1/2022,COD214
+8/3/2022 19:33,Lifting de pestañas,100000,Datafono,"$95,186 ",depositado,Pagado,Datafono,8/3/2022,August,8/1/2022,COD215
+8/3/2022 19:33,Bozo,,Datafono,$0 ,depositado,Pagado,Datafono,8/3/2022,August,8/1/2022,COD216
+8/3/2022 19:34,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,8/3/2022,August,8/1/2022,COD217
+8/3/2022 19:34,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/3/2022,August,8/1/2022,COD218
+8/4/2022 20:06,Depilacion de cejas con hilo,80000,Datafono,,depositado,Pagado,Datafono,8/4/2022,August,8/1/2022,COD219
+8/4/2022 20:07,Depilacion de cejas con hilo,,Datafono,$0 ,depositado,Pagado,Datafono,8/4/2022,August,8/1/2022,COD220
+8/4/2022 20:08,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/4/2022,August,8/1/2022,COD221
+8/5/2022 19:36,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,8/5/2022,August,8/1/2022,COD222
+8/5/2022 19:36,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/5/2022,August,8/1/2022,COD223
+8/5/2022 19:37,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/5/2022,August,8/1/2022,COD224
+8/5/2022 19:37,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/5/2022,August,8/1/2022,COD225
+8/6/2022 19:21,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,8/6/2022,August,8/1/2022,COD226
+8/6/2022 19:22,Pestañas clasicas,220000,Datafono,"$209,409 ",depositado,Pagado,Datafono,8/6/2022,August,8/1/2022,COD227
+8/6/2022 19:22,Laminado de cejas completo,,Datafono,$0 ,depositado,Pagado,Datafono,8/6/2022,August,8/1/2022,COD228
+8/6/2022 19:22,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/6/2022,August,8/1/2022,COD229
+8/6/2022 19:23,Retoque de pestañas,50000,Efectivo,"$50,000 ",depositado,Pagado,Efectivo,8/6/2022,August,8/1/2022,COD230
+8/6/2022 19:23,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/6/2022,August,8/1/2022,COD231
+8/9/2022 21:11,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/9/2022,August,8/8/2022,COD232
+8/10/2022 19:38,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/10/2022,August,8/8/2022,COD233
+8/10/2022 19:38,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,8/10/2022,August,8/8/2022,COD234
+8/10/2022 19:38,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/10/2022,August,8/8/2022,COD235
+8/10/2022 19:39,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,8/10/2022,August,8/8/2022,COD236
+8/10/2022 19:45,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/10/2022,August,8/8/2022,COD237
+8/11/2022 20:15,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/11/2022,August,8/8/2022,COD238
+8/11/2022 20:15,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/11/2022,August,8/8/2022,COD239
+8/11/2022 20:16,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/11/2022,August,8/8/2022,COD240
+8/11/2022 20:16,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/11/2022,August,8/8/2022,COD241
+8/12/2022 20:06,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/12/2022,August,8/8/2022,COD242
+8/12/2022 20:07,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD243
+8/12/2022 20:07,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD244
+8/12/2022 20:07,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD245
+8/12/2022 20:08,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD246
+8/12/2022 20:08,Depilacion de cejas + bozo,50000,Datafono,"$47,593 ",depositado,Pagado,Datafono,8/12/2022,August,8/8/2022,COD247
+8/12/2022 20:08,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD248
+8/12/2022 20:43,Retoque de pestañas,60000,Efectivo,"$60,000 ",depositado,Pagado,Efectivo,8/12/2022,August,8/8/2022,COD249
+8/13/2022 18:13,Depilacion de cejas con hilo,20000,Datafono,"$19,037 ",depositado,Pagado,Datafono,8/13/2022,August,8/8/2022,COD250
+8/13/2022 18:13,Depilacion de cejas + bozo,50000,Efectivo,"$50,000 ",depositado,Pagado,Efectivo,8/13/2022,August,8/8/2022,COD251
+8/13/2022 18:14,Laminado de cejas completo,110000,Datafono,"$104,705 ",depositado,Pagado,Datafono,8/13/2022,August,8/8/2022,COD252
+8/13/2022 18:15,Retoque de pestañas,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,8/13/2022,August,8/8/2022,COD253
+8/16/2022 15:10,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/16/2022,August,8/15/2022,COD254
+8/16/2022 15:11,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/16/2022,August,8/15/2022,COD255
+8/16/2022 15:11,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/16/2022,August,8/15/2022,COD256
+8/17/2022 22:24,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/17/2022,August,8/15/2022,COD257
+8/17/2022 22:25,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,8/17/2022,August,8/15/2022,COD258
+8/17/2022 22:25,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/17/2022,August,8/15/2022,COD259
+8/18/2022 19:17,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/18/2022,August,8/15/2022,COD260
+8/18/2022 19:17,Laminado de cejas,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,8/18/2022,August,8/15/2022,COD261
+8/18/2022 19:18,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/18/2022,August,8/15/2022,COD262
+8/18/2022 19:18,Laminado de cejas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,8/18/2022,August,8/15/2022,COD263
+8/18/2022 19:18,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,8/18/2022,August,8/15/2022,COD264
+8/18/2022 19:19,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/18/2022,August,8/15/2022,COD265
+8/19/2022 21:27,Depilacion con cera sin tintura,2500,Efectivo,"$2,500 ",depositado,Pagado,Efectivo,8/19/2022,August,8/15/2022,COD266
+8/19/2022 21:28,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/19/2022,August,8/15/2022,COD267
+8/19/2022 21:28,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/19/2022,August,8/15/2022,COD268
+8/19/2022 21:28,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/19/2022,August,8/15/2022,COD269
+8/20/2022 20:58,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/20/2022,August,8/15/2022,COD270
+8/20/2022 20:58,Lifting de pestañas + Diseño de cejas,135000,Datafono,"$128,501 ",depositado,Pagado,Datafono,8/20/2022,August,8/15/2022,COD271
+8/20/2022 20:58,Retoque de pestañas,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,8/20/2022,August,8/15/2022,COD272
+8/20/2022 20:59,Depilacion de cejas + bozo,50000,Efectivo,"$50,000 ",depositado,Pagado,Efectivo,8/20/2022,August,8/15/2022,COD273
+8/22/2022 19:29,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/22/2022,August,8/22/2022,COD274
+8/23/2022 19:55,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/23/2022,August,8/22/2022,COD275
+8/23/2022 19:55,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/23/2022,August,8/22/2022,COD276
+8/23/2022 19:56,Depilacion de cejas + bozo,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,8/23/2022,August,8/22/2022,COD277
+8/23/2022 19:56,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/23/2022,August,8/22/2022,COD278
+8/23/2022 19:56,Laminado de cejas,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,8/23/2022,August,8/22/2022,COD279
+8/24/2022 19:49,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/24/2022,August,8/22/2022,COD280
+8/24/2022 19:49,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/24/2022,August,8/22/2022,COD281
+8/24/2022 19:50,Pestañas punto x punto ,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/24/2022,August,8/22/2022,COD282
+8/24/2022 19:50,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,8/24/2022,August,8/22/2022,COD283
+8/25/2022 19:08,Depilacion de cejas + bozo,50000,Datafono,"$47,593 ",depositado,Pagado,Datafono,8/25/2022,August,8/22/2022,COD284
+8/25/2022 19:09,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,8/25/2022,August,8/22/2022,COD285
+8/26/2022 19:45,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/26/2022,August,8/22/2022,COD286
+8/26/2022 19:45,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/26/2022,August,8/22/2022,COD287
+8/26/2022 19:45,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/26/2022,August,8/22/2022,COD288
+8/26/2022 19:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/26/2022,August,8/22/2022,COD289
+8/26/2022 19:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/26/2022,August,8/22/2022,COD290
+8/27/2022 10:56,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,8/27/2022,August,8/22/2022,COD291
+8/27/2022 10:57,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,8/27/2022,August,8/22/2022,COD292
+8/27/2022 10:57,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/27/2022,August,8/22/2022,COD293
+8/29/2022 19:29,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/29/2022,August,8/29/2022,COD294
+8/29/2022 19:30,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,8/29/2022,August,8/29/2022,COD295
+8/29/2022 19:30,Lifting de pestañas + Diseño de cejas,150000,Datafono,"$142,779 ",depositado,Pagado,Datafono,8/29/2022,August,8/29/2022,COD296
+8/29/2022 19:31,Lifting de pestañas + Laminado de cejas,205000,Datafono,"$195,131 ",depositado,Pagado,Datafono,8/29/2022,August,8/29/2022,COD297
+8/29/2022 19:31,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/29/2022,August,8/29/2022,COD298
+8/29/2022 19:32,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,8/29/2022,August,8/29/2022,COD299
+8/29/2022 19:32,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/29/2022,August,8/29/2022,COD300
+8/30/2022 22:51,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,8/30/2022,August,8/29/2022,COD301
+8/30/2022 22:51,Bozo,15000,Datafono,"$14,278 ",depositado,Pagado,Datafono,8/30/2022,August,8/29/2022,COD302
+8/31/2022 19:43,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/31/2022,August,8/29/2022,COD303
+8/31/2022 19:44,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,8/31/2022,August,8/29/2022,COD304
+8/31/2022 19:44,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,8/31/2022,August,8/29/2022,COD305
+9/2/2022 20:05,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/2/2022,September,8/29/2022,COD306
+9/2/2022 20:05,Lifting de pestañas,100000,Datafono,"$114,223 ",depositado,Pagado,Datafono,9/2/2022,September,8/29/2022,COD307
+9/2/2022 20:06,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,9/2/2022,September,8/29/2022,COD308
+9/2/2022 20:06,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/2/2022,September,8/29/2022,COD309
+9/2/2022 20:06,Pestañas hibridas,150000,Efectivo,"$150,000 ",depositado,Pagado,Efectivo,9/2/2022,September,8/29/2022,COD310
+9/2/2022 20:06,Laminado de cejas,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,9/2/2022,September,8/29/2022,COD311
+9/3/2022 19:12,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,9/3/2022,September,8/29/2022,COD312
+9/3/2022 19:13,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/3/2022,September,8/29/2022,COD313
+9/3/2022 19:14,Depilacion con cera sin tintura,25000,Datafono,"$23,796 ",depositado,Pagado,Datafono,9/3/2022,September,8/29/2022,COD314
+9/3/2022 23:00,Laminado de cejas,90000,Datafono,,depositado,Pagado,Datafono,9/3/2022,September,8/29/2022,COD315
+9/1/2022 12:17,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,9/1/2022,September,8/29/2022,COD316
+9/1/2022 12:18,Laminado de cejas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,9/1/2022,September,8/29/2022,COD317
+9/1/2022 12:18,Lifting de pestañas + Laminado de cejas,190000,Datafono,"$180,853 ",depositado,Pagado,Datafono,9/1/2022,September,8/29/2022,COD318
+9/1/2022 12:18,Pestañas clasicas,130000,Datafono,"$123,742 ",depositado,Pagado,Datafono,9/1/2022,September,8/29/2022,COD319
+9/1/2022 12:18,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/1/2022,September,8/29/2022,COD320
+9/1/2022 12:19,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/1/2022,September,8/29/2022,COD321
+9/5/2022 12:28,Pago externo,-190000,Efectivo,"($190,000)",depositado,Pagado,Efectivo,9/5/2022,September,9/5/2022,COD322
+9/5/2022 20:24,Retoque de pestañas + Diseño de cejas,110000,Datafono,"$104,705 ",depositado,Pagado,Datafono,9/5/2022,September,9/5/2022,COD323
+9/5/2022 20:24,Retoque de pestañas,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,9/5/2022,September,9/5/2022,COD324
+9/6/2022 21:29,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/6/2022,September,9/5/2022,COD325
+9/6/2022 21:30,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/6/2022,September,9/5/2022,COD326
+9/7/2022 19:31,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/7/2022,September,9/5/2022,COD327
+9/7/2022 19:32,Retoque de pestañas,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,9/7/2022,September,9/5/2022,COD328
+9/8/2022 19:27,Retoque de pestañas,60000,Efectivo,"$60,000 ",depositado,Pagado,Efectivo,9/8/2022,September,9/5/2022,COD329
+9/8/2022 19:28,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/8/2022,September,9/5/2022,COD330
+9/9/2022 19:37,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/9/2022,September,9/5/2022,COD331
+9/10/2022 19:05,Retoque de pestañas + Diseño de cejas,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,9/10/2022,September,9/5/2022,COD332
+9/10/2022 19:05,Pestañas punto x punto,50000,Efectivo,"$50,000 ",depositado,Pagado,Efectivo,9/10/2022,September,9/5/2022,COD333
+9/10/2022 19:06,Retoque de pestañas,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,9/10/2022,September,9/5/2022,COD334
+9/12/2022 19:56,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/12/2022,September,9/12/2022,COD335
+9/12/2022 19:56,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/12/2022,September,9/12/2022,COD336
+9/12/2022 19:56,Retoque de pestañas,60000,Efectivo,"$60,000 ",depositado,Pagado,Efectivo,9/12/2022,September,9/12/2022,COD337
+9/13/2022 20:41,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/13/2022,September,9/12/2022,COD338
+9/14/2022 19:38,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/14/2022,September,9/12/2022,COD339
+9/14/2022 19:39,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/14/2022,September,9/12/2022,COD340
+9/14/2022 19:39,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/14/2022,September,9/12/2022,COD341
+9/14/2022 19:39,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,9/14/2022,September,9/12/2022,COD342
+9/15/2022 20:39,Pestañas clasicas,170000,Datafono,"$161,816 ",depositado,Pagado,Datafono,9/15/2022,September,9/12/2022,COD343
+9/15/2022 20:40,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/15/2022,September,9/12/2022,COD344
+9/16/2022 19:26,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/16/2022,September,9/12/2022,COD345
+9/16/2022 19:26,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/16/2022,September,9/12/2022,COD346
+9/16/2022 19:26,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/16/2022,September,9/12/2022,COD347
+9/16/2022 19:26,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,9/16/2022,September,9/12/2022,COD348
+9/16/2022 19:27,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/16/2022,September,9/12/2022,COD349
+9/16/2022 19:27,Pestañas punto x punto,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/16/2022,September,9/12/2022,COD350
+9/17/2022 18:42,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,9/17/2022,September,9/12/2022,COD351
+9/17/2022 18:42,Lifting de pestañas + Laminado de cejas,190000,Datafono,"$180,853 ",depositado,Pagado,Datafono,9/17/2022,September,9/12/2022,COD352
+9/17/2022 18:42,Retoque de pestañas,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,9/17/2022,September,9/12/2022,COD353
+9/17/2022 18:44,Cejas diseño completo,30000,Datafono,"$28,556 ",depositado,Pagado,Datafono,9/17/2022,September,9/12/2022,COD354
+9/17/2022 19:57,Pago externo,-13000,Efectivo,"($13,000)",depositado,Pagado,Efectivo,9/17/2022,September,9/12/2022,COD355
+9/19/2022 19:48,Pestañas clasicas,130000,Datafono,"$123,742 ",pendiente,Pagado,Datafono,9/19/2022,September,9/19/2022,COD356
+9/19/2022 19:48,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/19/2022,September,9/19/2022,COD357
+9/20/2022 20:32,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,9/20/2022,September,9/19/2022,COD358
+9/21/2022 19:10,Retoque de pestañas,60000,Efectivo,"$60,000 ",depositado,Pagado,Efectivo,9/21/2022,September,9/19/2022,COD359
+9/21/2022 19:10,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",pendiente,Pagado,Datafono,9/21/2022,September,9/19/2022,COD360
+9/21/2022 19:10,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/21/2022,September,9/19/2022,COD361
+9/21/2022 19:11,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/21/2022,September,9/19/2022,COD362
+9/22/2022 20:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/22/2022,September,9/19/2022,COD363
+9/22/2022 20:46,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/22/2022,September,9/19/2022,COD364
+9/22/2022 20:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/22/2022,September,9/19/2022,COD365
+9/22/2022 21:19,Laminado de cejas completo,90000,Datafono,"$85,667 ",pendiente,Pagado,Datafono,9/22/2022,September,9/19/2022,COD366
+9/22/2022 21:20,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/22/2022,September,9/19/2022,COD367
+9/23/2022 19:43,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/23/2022,September,9/19/2022,COD368
+9/23/2022 19:44,Depilacion facial,50000,Datafono,"$47,593 ",pendiente,Pagado,Datafono,9/23/2022,September,9/19/2022,COD369
+9/23/2022 19:44,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/23/2022,September,9/19/2022,COD370
+9/23/2022 19:45,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/23/2022,September,9/19/2022,COD371
+9/23/2022 19:45,Cejas diseño completo,35000,Datafono,"$33,315 ",pendiente,Pagado,Datafono,9/23/2022,September,9/19/2022,COD372
+9/24/2022 23:52,Depilacion facial,55000,Datafono,"$52,352 ",depositado,Pagado,Datafono,9/24/2022,September,9/19/2022,COD373
+9/24/2022 23:53,Retoque de pestañas + Diseño de cejas,105000,Datafono,"$99,945 ",depositado,Pagado,Datafono,9/24/2022,September,9/19/2022,COD374
+9/24/2022 23:54,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/24/2022,September,9/19/2022,COD375
+9/26/2022 6:29,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/26/2022,September,9/26/2022,COD376
+9/26/2022 6:30,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,9/26/2022,September,9/26/2022,COD377
+9/26/2022 6:30,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/26/2022,September,9/26/2022,COD378
+9/26/2022 6:31,Lifting de pestañas,100000,Datafono,"$95,186 ",depositado,Pagado,Datafono,9/26/2022,September,9/26/2022,COD379
+9/27/2022 19:54,Depilacion con cera sin tintura,,Efectivo,,depositado,Pagado,Efectivo,9/27/2022,September,9/26/2022,COD380
+9/27/2022 19:56,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/27/2022,September,9/26/2022,COD381
+9/27/2022 19:56,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/27/2022,September,9/26/2022,COD382
+9/27/2022 19:57,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/27/2022,September,9/26/2022,COD383
+9/27/2022 19:57,Depilacion con hilo sin tintura,30000,Datafono,"$28,556 ",depositado,Pagado,Datafono,9/27/2022,September,9/26/2022,COD384
+9/27/2022 19:57,Pestañas clasicas,130000,Datafono,"$123,742 ",depositado,Pagado,Datafono,9/27/2022,September,9/26/2022,COD385
+9/27/2022 19:58,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,9/27/2022,September,9/26/2022,COD386
+9/29/2022 6:04,Retoque de pestañas,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/29/2022,September,9/26/2022,COD387
+9/29/2022 12:32,Depilacion de cejas con hilo,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/29/2022,September,9/26/2022,COD388
+9/29/2022 12:33,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,9/29/2022,September,9/26/2022,COD389
+9/29/2022 22:43,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,9/29/2022,September,9/26/2022,COD390
+9/29/2022 22:44,Retoque de pestañas + Diseño de cejas,100000,Datafono,"$95,186 ",depositado,Pagado,Datafono,9/29/2022,September,9/26/2022,COD391
+9/29/2022 22:45,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,9/29/2022,September,9/26/2022,COD392
+9/30/2022 20:03,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,9/30/2022,September,9/26/2022,COD393
+9/30/2022 20:03,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,9/30/2022,September,9/26/2022,COD394
+10/1/2022 22:00,Pestañas volumen,175000,Datafono,"$166,575 ",depositado,Pagado,Datafono,10/1/2022,October,9/26/2022,COD395
+10/1/2022 22:01,Lifting de pestañas sin tintura,80000,Efectivo,"$80,000 ",depositado,Pagado,Efectivo,10/1/2022,October,9/26/2022,COD396
+10/1/2022 22:02,Depilacion con hilo sin tintura,30000,Datafono,"$28,556 ",depositado,Pagado,Datafono,10/1/2022,October,9/26/2022,COD397
+10/3/2022 15:59,Retoque de pestañas + Diseño de cejas,105000,Datafono,"$99,945 ",depositado,Pagado,Datafono,10/3/2022,October,10/3/2022,COD398
+10/3/2022 18:21,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,10/3/2022,October,10/3/2022,COD399
+10/4/2022 21:40,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/4/2022,October,10/3/2022,COD400
+10/4/2022 21:40,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/4/2022,October,10/3/2022,COD401
+10/5/2022 10:34,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,10/5/2022,October,10/3/2022,COD402
+10/5/2022 14:45,Depilacion de axila,15000,Efectivo,"$15,000 ",depositado,Pagado,Efectivo,10/5/2022,October,10/3/2022,COD403
+10/5/2022 14:45,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/5/2022,October,10/3/2022,COD404
+10/5/2022 17:54,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,10/5/2022,October,10/3/2022,COD405
+10/5/2022 20:21,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,10/5/2022,October,10/3/2022,COD406
+10/5/2022 20:23,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/5/2022,October,10/3/2022,COD407
+10/6/2022 19:49,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/6/2022,October,10/3/2022,COD408
+10/6/2022 19:49,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/6/2022,October,10/3/2022,COD409
+10/6/2022 19:50,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/6/2022,October,10/3/2022,COD410
+10/7/2022 20:13,Solo pigmento,20000,Efectivo,"$20,000 ",depositado,Pagado,Efectivo,10/7/2022,October,10/3/2022,COD411
+10/7/2022 20:13,Laminado de cejas completo,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,10/7/2022,October,10/3/2022,COD412
+10/7/2022 20:14,Pago externo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/7/2022,October,10/3/2022,COD413
+10/8/2022 23:03,Lifting de pestañas + Diseño de cejas,140000,Datafono,"$133,260 ",depositado,Pagado,Datafono,10/8/2022,October,10/3/2022,COD414
+10/8/2022 23:03,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/8/2022,October,10/3/2022,COD415
+10/10/2022 20:01,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,10/10/2022,October,10/10/2022,COD416
+10/10/2022 20:01,Pestañas clasicas,165000,Datafono,"$157,057 ",depositado,Pagado,Datafono,10/10/2022,October,10/10/2022,COD417
+10/10/2022 20:02,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/10/2022,October,10/10/2022,COD418
+10/11/2022 19:24,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/11/2022,October,10/10/2022,COD419
+10/11/2022 19:24,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/11/2022,October,10/10/2022,COD420
+10/11/2022 19:25,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,10/11/2022,October,10/10/2022,COD421
+10/11/2022 19:25,Lifting de pestañas + Diseño de cejas,140000,Datafono,"$133,260 ",depositado,Pagado,Datafono,10/11/2022,October,10/10/2022,COD422
+10/11/2022 19:29,Retoque de pestañas,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,10/11/2022,October,10/10/2022,COD423
+10/12/2022 19:57,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,10/12/2022,October,10/10/2022,COD424
+10/12/2022 19:57,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,10/12/2022,October,10/10/2022,COD425
+10/12/2022 19:57,Cejas diseño completo,70000,Datafono,"$66,630 ",depositado,Pagado,Datafono,10/12/2022,October,10/10/2022,COD426
+10/12/2022 19:58,Retoque de pestañas,90000,Datafono,"$85,667 ",depositado,Pagado,Datafono,10/12/2022,October,10/10/2022,COD427
+10/12/2022 19:58,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/12/2022,October,10/10/2022,COD428
+10/12/2022 19:59,Depilacion de cejas + bozo,55000,Datafono,"$52,352 ",depositado,Pagado,Datafono,10/12/2022,October,10/10/2022,COD429
+10/12/2022 20:24,Pago externo,-20000,Efectivo,"($20,000)",depositado,Pagado,Efectivo,10/12/2022,October,10/10/2022,COD430
+10/13/2022 9:44,Cejas diseño completo,35000,Datafono,"$33,315 ",depositado,Pagado,Datafono,10/13/2022,October,10/10/2022,COD431
+10/13/2022 9:45,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/13/2022,October,10/10/2022,COD432
+10/13/2022 9:45,Pestañas punto x punto,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/13/2022,October,10/10/2022,COD433
+10/13/2022 9:46,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/13/2022,October,10/10/2022,COD434
+10/14/2022 21:16,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/14/2022,October,10/10/2022,COD435
+10/14/2022 21:17,Lifting de pestañas,100000,Datafono,"$95,186 ",depositado,Pagado,Datafono,10/14/2022,October,10/10/2022,COD436
+10/18/2022 21:46,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pagado,Efectivo,10/18/2022,October,10/17/2022,COD437
+10/18/2022 21:46,Lifting de pestañas,100000,Datafono,"$95,186 ",depositado,Pendiente,Datafono,10/18/2022,October,10/17/2022,COD438
+10/19/2022 22:09,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/19/2022,October,10/17/2022,COD439
+10/19/2022 22:09,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/19/2022,October,10/17/2022,COD440
+10/19/2022 22:10,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/19/2022,October,10/17/2022,COD441
+10/20/2022 11:17,Depilacion facial,45000,Datafono,"$42,834 ",depositado,Pendiente,Datafono,10/20/2022,October,10/17/2022,COD442
+10/20/2022 11:17,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,10/20/2022,October,10/17/2022,COD443
+10/20/2022 11:17,Pestañas punto x punto,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/20/2022,October,10/17/2022,COD444
+10/21/2022 19:32,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/21/2022,October,10/17/2022,COD445
+10/22/2022 17:59,Retoque de pestañas,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,10/22/2022,October,10/17/2022,COD446
+10/22/2022 18:00,Lifting de pestañas,130000,Datafono,"$123,742 ",depositado,Pendiente,Datafono,10/22/2022,October,10/17/2022,COD447
+10/22/2022 18:00,Pago externo,-30000,Efectivo,"($30,000)",depositado,Pagado,Efectivo,10/22/2022,October,10/17/2022,COD448
+10/22/2022 18:13,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/22/2022,October,10/17/2022,COD449
+10/24/2022 19:31,Depilacion con cera sin tintura,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/24/2022,October,10/24/2022,COD450
+10/25/2022 20:01,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,10/25/2022,October,10/24/2022,COD451
+10/25/2022 20:02,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,10/25/2022,October,10/24/2022,COD452
+10/25/2022 20:02,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/25/2022,October,10/24/2022,COD453
+10/25/2022 20:02,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/25/2022,October,10/24/2022,COD454
+10/26/2022 19:36,Lifting de pestañas,100000,Datafono,"$95,186 ",depositado,Pagado,Datafono,10/26/2022,October,10/24/2022,COD455
+10/26/2022 19:36,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,10/26/2022,October,10/24/2022,COD456
+10/26/2022 19:36,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,10/26/2022,October,10/24/2022,COD457
+10/26/2022 19:37,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,10/26/2022,October,10/24/2022,COD458
+10/27/2022 19:37,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/27/2022,October,10/24/2022,COD459
+10/27/2022 19:37,Retoque de pestañas,80000,Datafono,"$76,149 ",depositado,Pagado,Datafono,10/27/2022,October,10/24/2022,COD460
+10/27/2022 19:38,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,10/27/2022,October,10/24/2022,COD461
+10/27/2022 19:38,Depilacion de cejas con hilo,40000,Datafono,"$38,074 ",depositado,Pagado,Datafono,10/27/2022,October,10/24/2022,COD462
+10/28/2022 21:56,Depilacion con cera sin tintura,25000,Datafono,"$23,796 ",depositado,Pagado,Datafono,10/28/2022,October,10/24/2022,COD463
+10/28/2022 21:56,Retoque de pestañas,70000,Efectivo,"$70,000 ",depositado,Pagado,Efectivo,10/28/2022,October,10/24/2022,COD464
+10/28/2022 21:57,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,10/28/2022,October,10/24/2022,COD465
+10/28/2022 21:57,Depilacion con cera sin tintura,25000,Datafono,"$23,796 ",depositado,Pagado,Datafono,10/28/2022,October,10/24/2022,COD466
+10/29/2022 17:52,Lifting de pestañas,100000,Efectivo,"$100,000 ",depositado,Pagado,Efectivo,10/29/2022,October,10/24/2022,COD467
+10/31/2022 19:56,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,10/31/2022,October,10/31/2022,COD468
+10/31/2022 19:56,Pestañas hibridas,150000,Datafono,,pendiente,Pendiente,Datafono,10/31/2022,October,10/31/2022,COD469
+10/31/2022 19:57,Depilacion con cera sin tintura,25000,Datafono,,pendiente,Pendiente,Datafono,10/31/2022,October,10/31/2022,COD470
+11/1/2022 19:48,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,11/1/2022,November,10/31/2022,COD471
+11/1/2022 19:49,Lifting de pestañas,105000,Datafono,,pendiente,Pendiente,Datafono,11/1/2022,November,10/31/2022,COD472
+11/1/2022 19:49,Retoque de pestañas,70000,Datafono,,pendiente,Pendiente,Datafono,11/1/2022,November,10/31/2022,COD473
+11/2/2022 16:40,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,11/2/2022,November,10/31/2022,COD474
+11/2/2022 16:40,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,11/2/2022,November,10/31/2022,COD475
+11/2/2022 16:40,Depilacion de cejas + bozo,40000,Efectivo,"$40,000 ",depositado,Pagado,Efectivo,11/2/2022,November,10/31/2022,COD476
+11/3/2022 20:10,Laminado de cejas completo,90000,Efectivo,"$90,000 ",depositado,Pagado,Efectivo,11/3/2022,November,10/31/2022,COD477
+11/3/2022 20:10,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,11/3/2022,November,10/31/2022,COD478
+11/3/2022 20:11,Lifting de pestañas,100000,Datafono,,pendiente,Pendiente,Datafono,11/3/2022,November,10/31/2022,COD479
+11/3/2022 20:11,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,11/3/2022,November,10/31/2022,COD480
+11/4/2022 22:00,Depilacion con hilo sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,11/4/2022,November,10/31/2022,COD481
+11/4/2022 22:00,Depilacion con cera sin tintura,25000,Datafono,,pendiente,Pendiente,Datafono,11/4/2022,November,10/31/2022,COD482
+11/4/2022 22:00,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pagado,Efectivo,11/4/2022,November,10/31/2022,COD483
+11/5/2022 17:18,Depilacion facial,60000,Datafono,,pendiente,Pagado,Datafono,11/5/2022,November,10/31/2022,COD484
+11/5/2022 17:18,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pagado,Efectivo,11/5/2022,November,10/31/2022,COD485
+11/5/2022 17:18,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pagado,Efectivo,11/5/2022,November,10/31/2022,COD486
+11/8/2022 19:18,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/8/2022,November,11/7/2022,COD487
+11/8/2022 19:18,Cejas diseño completo,35000,Datafono,,depositado,Pendiente,Datafono,11/8/2022,November,11/7/2022,COD488
+11/8/2022 19:19,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pendiente,Efectivo,11/8/2022,November,11/7/2022,COD489
+11/8/2022 19:19,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/8/2022,November,11/7/2022,COD490
+11/9/2022 20:12,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pendiente,Efectivo,11/9/2022,November,11/7/2022,COD491
+11/9/2022 20:12,Depilacion de cejas + bozo,35000,Efectivo,"$35,000 ",depositado,Pendiente,Efectivo,11/9/2022,November,11/7/2022,COD492
+11/9/2022 20:13,Depilacion de axila,15000,Efectivo,"$15,000 ",depositado,Pendiente,Efectivo,11/9/2022,November,11/7/2022,COD493
+11/9/2022 20:13,Pestañas clasicas,130000,Efectivo,"$130,000 ",depositado,Pendiente,Efectivo,11/9/2022,November,11/7/2022,COD494
+11/10/2022 18:42,Depilacion de cejas con hilo,40000,Datafono,,depositado,Pendiente,Datafono,11/10/2022,November,11/7/2022,COD495
+11/10/2022 18:42,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/10/2022,November,11/7/2022,COD496
+11/11/2022 19:07,Depilacion de cejas con hilo,40000,Datafono,,depositado,Pendiente,Datafono,11/11/2022,November,11/7/2022,COD497
+11/11/2022 19:07,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pendiente,Efectivo,11/11/2022,November,11/7/2022,COD498
+11/11/2022 19:08,Pestañas punto x punto,80000,Efectivo,"$80,000 ",depositado,Pendiente,Efectivo,11/11/2022,November,11/7/2022,COD499
+11/11/2022 19:09,Pestañas volumen,175000,Efectivo,"$175,000 ",depositado,Pendiente,Efectivo,11/11/2022,November,11/7/2022,COD500
+11/11/2022 19:09,Depilacion de cejas + bozo,50000,Datafono,,depositado,Pendiente,Datafono,11/11/2022,November,11/7/2022,COD501
+11/12/2022 17:07,Depilacion con cera sin tintura,25000,Efectivo,"$25,000 ",depositado,Pendiente,Efectivo,11/12/2022,November,11/7/2022,COD502
+11/12/2022 17:07,Lifting de pestañas + Diseño de cejas,125000,Datafono,,depositado,Pendiente,Datafono,11/12/2022,November,11/7/2022,COD503
+11/12/2022 17:08,Depilacion de cejas + bozo,50000,Efectivo,"$50,000 ",depositado,Pendiente,Efectivo,11/12/2022,November,11/7/2022,COD504
+11/15/2022 18:43,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pendiente,Efectivo,11/15/2022,November,11/14/2022,COD505
+11/15/2022 18:43,Pestañas clasicas,130000,Datafono,,depositado,Pendiente,Datafono,11/15/2022,November,11/14/2022,COD506
+11/15/2022 18:43,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/15/2022,November,11/14/2022,COD507
+11/15/2022 18:43,Depilacion de cejas + bozo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/15/2022,November,11/14/2022,COD508
+11/9/2022 9:45,Depilacion con hilo sin tintura,30000,Efectivo,"$30,000 ",depositado,Pendiente,Efectivo,11/9/2022,November,11/7/2022,COD509
+11/16/2022 18:54,Depilacion de cejas con hilo,40000,Efectivo,"$40,000 ",depositado,Pendiente,Efectivo,11/16/2022,November,11/14/2022,COD510
+11/16/2022 18:54,Laminado de cejas,90000,Datafono,,depositado,Pendiente,Datafono,11/16/2022,November,11/14/2022,COD511
+11/16/2022 18:55,Cejas diseño completo,35000,Efectivo,"$35,000 ",depositado,Pendiente,Efectivo,11/16/2022,November,11/14/2022,COD512
+11/16/2022 18:56,Lifting de pestañas,100000,Datafono,,depositado,Pendiente,Datafono,11/16/2022,November,11/14/2022,COD513
+11/16/2022 19:00,Pestañas volumen,265000,Datafono,,depositado,Pendiente,Datafono,11/16/2022,November,11/14/2022,COD514
+11/16/2022 19:01,Laminado de cejas completo,0,Efectivo,$0 ,depositado,Pendiente,Efectivo,11/16/2022,November,11/14/2022,COD515
