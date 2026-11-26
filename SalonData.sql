@@ -1,50 +1,64 @@
+-- SalonSQL: limpieza, normalización y análisis de las ventas de un salón de belleza
+-- Requiere SQL Server. Ejecuta el script de arriba hacia abajo (es repetible).
+--
+-- ANTES DE EJECUTAR: indica en @csv_path la ruta del archivo ByL_form.csv
+-- en el equipo donde corre SQL Server (BULK INSERT lee desde el servidor).
+-- No subas esa ruta al repositorio: déjala con este marcador.
 
---1/ Create DATABASE
-CREATE DATABASE SALONDATA ON 
-(NAME=N'SALONDATA', FILENAME=N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\SALONDATA.mdf')
-LOG ON 
-(NAME=N'SALON_LOG', FILENAME=N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\SALONDATA_LOG.ldf')
+-- 1/ Crear la base de datos (si no existe)
+IF DB_ID(N'SALONDATA') IS NULL
+    CREATE DATABASE SALONDATA;
+GO
 
+USE SALONDATA;
+GO
 
-USE SALONDATA
+-- 2/ Limpiar objetos de ejecuciones anteriores
+DROP VIEW  IF EXISTS Table_transactions;
+DROP TABLE IF EXISTS TRANSACTIONS;
+DROP TABLE IF EXISTS PAYMENT_METHODS;
+DROP TABLE IF EXISTS SERVICES;
+DROP TABLE IF EXISTS brows_and_Lashes_Data;
+GO
 
+-- 3/ Tabla de datos en bruto
 CREATE TABLE brows_and_Lashes_Data
 (
-	[Timestamp] [datetime2](7) NOT NULL,
-	[Servicio] [nvarchar](50) NOT NULL,
-	[Costo] [varchar](20) NULL,
-	[M�todo_de_pago] [nvarchar](50) NOT NULL,
-	[total] [varchar](20) NULL,
-	[Sacado_de_caja] [nvarchar](50) NOT NULL,
-	[Si_pagado] [nvarchar](50) NOT NULL,
-	[Metodo_de_pago] [nvarchar](50) NOT NULL,
-	[Fecha] [DATE] NOT NULL,
-	[Month] [nvarchar](50) NOT NULL,
-	[Week_starting] [date] NOT NULL,
-	[transaction_ID] [nvarchar](50) NOT NULL
-) 
+    [Timestamp]       [datetime2](7) NOT NULL,
+    [Servicio]        [nvarchar](50) NOT NULL,
+    [Costo]           [varchar](20)  NULL,
+    [Método_de_pago]  [nvarchar](50) NOT NULL,
+    [total]           [varchar](20)  NULL,
+    [Sacado_de_caja]  [nvarchar](50) NOT NULL,
+    [Si_pagado]       [nvarchar](50) NOT NULL,
+    [Metodo_de_pago]  [nvarchar](50) NOT NULL,
+    [Fecha]           [DATE]         NOT NULL,
+    [Month]           [nvarchar](50) NOT NULL,
+    [Week_starting]   [date]         NOT NULL,
+    [transaction_ID]  [nvarchar](50) NOT NULL
+);
 
-DROP TABLE brows_and_Lashes_Data
+-- 4/ Cargar el CSV (la ruta vive solo en esta variable)
+SET DATEFORMAT mdy;
 
-SET DATEFORMAT mdy
-
-BULK INSERT brows_and_Lashes_Data 
-FROM 'C:\Users\Nai\Documents\proyectos\SalonSQL\ByL_form.csv'
-WITH 
+DECLARE @csv_path NVARCHAR(500) = N'<RUTA_AL_ARCHIVO>\ByL_form.csv';
+DECLARE @sql NVARCHAR(MAX) = N'
+BULK INSERT brows_and_Lashes_Data
+FROM ''' + @csv_path + N'''
+WITH
 (
-CODEPAGE = '65001',
-FIRSTROW = 2,
-FIELDTERMINATOR=',',
-ROWTERMINATOR='\n', 
-FORMAT ='CSV'
-) 
+    CODEPAGE = ''65001'',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = '','',
+    ROWTERMINATOR = ''\n'',
+    FORMAT = ''CSV''
+);';
+EXEC sp_executesql @sql;
+GO
 
-
-
-
+-- 5/ Normalización y análisis
 SELECT DISTINCT Servicio FROM brows_and_Lashes_Data
 
-DROP TABLE NEWTABLE 
 
 SELECT
 	IDENTITY(INT, 1, 1) AS SERVICE_ID,
@@ -110,6 +124,8 @@ SELECT * FROM TRANSACTIONS
 
 --CREATE VIEW where i can see payment_method, services, transaction. (join)
 
+GO
+
 CREATE VIEW Table_transactions AS
 SELECT TRANSACTIONS.fecha,
 SERVICES.SERVICE,
@@ -119,6 +135,8 @@ TRANSACTIONS.total
 FROM TRANSACTIONS
 inner join PAYMENT_METHODS on transactions.pm_id=payment_methods.pm_id
 inner join Services on TRANSACTIONS.service_id=services.service_id
+
+GO
 
 SELECT* FROM Table_transactions
 
@@ -202,6 +220,3 @@ FROM Table_transactions
 
 SELECT cast(SUM(COSTO) AS INT) 'Total Earnings'
 FROM Table_transactions
-
-
-
